@@ -1,12 +1,12 @@
-{ 
-   "tasks":[ 
-      { 
+{
+   "tasks":[
+      {
          "id":1,
          "title":"hello",
          "content":"hello",
          "status":false
       },
-      { 
+      {
          "id":2,
          "title":"hellosssssss",
          "content":"helloaaaaaaaaaa",
@@ -14,17 +14,17 @@
       }
    ],
    "projects":[
-      { 
+      {
          "id":1,
          "title":"project1",
          "content":"project1",
          "status":false
       },
-      { 
+      {
          "id":2,
          "title":"project2",
          "content":"project2",
          "status":true
       }
-      ]
+   ]
 }
